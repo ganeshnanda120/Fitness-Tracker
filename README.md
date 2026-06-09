@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fitness_tracker_internship
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Fitness-Tracker
+>>>>>>> 07f8931d314754a49fe63b96586bb87fa2c56234
